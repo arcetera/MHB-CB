@@ -1,0 +1,11 @@
+Package: com.reddestdream.mhbcb
+Name: Minimal Hosts Blocker CB
+Version: 1.0
+Architecture: iphoneos-arm
+Conflicts: com.thireus.untrustedhostsblockerexperimental, com.thireus.untrustedhostsblockerlight, com.thireus.untrustedhostsblocker, com.myrepospace.reddestdream.minimal, com.myrepospace.basic.basic, com.reddestdream.minimalhostsblocker
+Description: Minimal Hosts Blocker designed to be used with a Content Blocker.
+Depiction: http://arcetera.github.io/repodepictions/info/com.reddestdream.mhbcb/index.html
+Maintainer: arcetera <arc@plusreed.com>
+Author: ReddestDream <reddestdream@gmail.com>
+Section: Tweaks
+
